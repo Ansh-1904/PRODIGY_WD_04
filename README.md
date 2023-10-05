@@ -8,9 +8,7 @@ Website contains:
 - Skills
 - Qualification
 - Services
-- Portfolio
 - Project in mind
-- Testimonial
 - Contact
 - Footer 
 
